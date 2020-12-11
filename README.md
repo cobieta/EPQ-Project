@@ -1,7 +1,5 @@
 # EPQ-Project
-This is the repositry for the game I created in Unity with C# for my Extended Project Qualification (EPQ). I worked on this during 2017 and 2018. It inlcudes the final report I wrote. To play the game, please download the Unity DLLs.zip and EPQ game build for x64.zip files. You need to place the .dll files from the Unity DLLs.zip into the same directory as the application file to launch the game. This game works on x64 systems. 
+This is the repositry for the game I created in Unity with C# for my Extended Project Qualification (EPQ). I worked on this during 2017 and 2018. It inlcudes the final report I wrote. To play the game, please download the correct EPQ game build folder for your system (either the x64 or x86 one). To view the Unity project files, check the EPQ game folder. 
 
 This is a link to the presentation that I created to demonstrate my project and includes video footage of my game:
 https://docs.google.com/presentation/d/1u0a9Wj1VDS1jHLZHs7kl8kicW7z_Bjvka9omP1oY9AU/edit?usp=sharing
-
-*Since I have only recently created this Github account, the executable game and the project source files have not been added to this repository yet because they are stored on a backup that I don't have physical access to at the moment. They will be available from 11th December when I have access again. Feel free to have a look at the presentation and report I wrote for this project in the meantime.*
